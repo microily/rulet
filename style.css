@@ -4,7 +4,7 @@ body {
   line-height: 26px;
   font-family: "Arial", sans-serif;
   color: orange;
-  background: #ffffff url("img/bg-page.png") no-repeat top center;
+  background: #ffffff url("bg-page.png") no-repeat top center;
 }
 
 h1 {
@@ -209,7 +209,7 @@ footer {
   text-align: center;
   color: #ffffff;
   background-color: #4a87fa;
-  background-image: url("img/bg-partnership.svg");
+  background-image: url("bg-partnership.svg");
 }
 
 .underline {
